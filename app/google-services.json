@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81306144427",
+    "project_id": "foodsample-c955c",
+    "storage_bucket": "foodsample-c955c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81306144427:android:2da378a763be74497431ee",
+        "android_client_info": {
+          "package_name": "net.mdev.foodsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATHGgl02RZxKFnpiyCZqEB3_nJshUeASU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
