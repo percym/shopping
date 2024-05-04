@@ -10,7 +10,7 @@ plugins {
 }
 
 android {
-    namespace = "net.mdev.foodsample"
+    namespace = "net.mdev.shopping"
     compileSdk = 34
 
     defaultConfig {

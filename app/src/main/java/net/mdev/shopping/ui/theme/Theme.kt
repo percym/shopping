@@ -1,4 +1,4 @@
-package net.mdev.foodsample.ui.theme
+package net.mdev.shopping.ui.theme
 
 import android.app.Activity
 import android.os.Build

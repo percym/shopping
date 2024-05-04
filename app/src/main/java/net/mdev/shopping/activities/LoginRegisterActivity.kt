@@ -1,8 +1,8 @@
-package net.mdev.foodsample.activities
+package net.mdev.shopping.activities
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import net.mdev.foodsample.R
+import androidx.appcompat.app.AppCompatActivity
+import net.mdev.shopping.R
 
 class LoginRegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

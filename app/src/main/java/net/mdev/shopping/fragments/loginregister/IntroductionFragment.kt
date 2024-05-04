@@ -1,7 +1,7 @@
-package net.mdev.foodsample.fragments.loginregister
+package net.mdev.shopping.fragments.loginregister
 
 import androidx.fragment.app.Fragment
-import net.mdev.foodsample.R
+import net.mdev.shopping.R
 
 class IntroductionFragment: Fragment(R.layout.fragment_introduction) {
 }
